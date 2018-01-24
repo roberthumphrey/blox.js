@@ -1,7 +1,7 @@
 {
   "name": "blox.js",
   "version": "0.1.21",
-  "description": "Blox.js is a Roblox API wrapper.",
+  "description": "Blox.js is a Roblox API wrapper made in JavaScript (duh).",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

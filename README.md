@@ -4,7 +4,7 @@ blox.js
 
 
 ## About
-blox.js is a library that is built to connect an application to the [Roblox](https://www.roblox.com/) [API](https://api.roblox.com/docs)
+Blox.js is a [Roblox](https://www.roblox.com/) [API](https://api.roblox.com/docs) wrapper made in JavaScript (duh).
 
 ## Installation
 `npm install blox.js`
