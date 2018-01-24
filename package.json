@@ -1,0 +1,20 @@
+{
+  "name": "blox.js",
+  "version": "0.1.17",
+  "description": "A library built to connect an application to the Roblox API.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Humphrey <thelordpraemark@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "Roblox",
+    "Automation",
+    "Bots",
+    "ROBLOX"
+  ],
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
