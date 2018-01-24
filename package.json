@@ -1,6 +1,6 @@
 {
   "name": "blox.js",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "Blox.js is a Roblox API wrapper.",
   "main": "lib/index.js",
   "scripts": {
