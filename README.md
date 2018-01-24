@@ -24,7 +24,7 @@ The output, if done correctly, should be something like this:
 ```
 Logged in as EternaIEmpire!
 User Promoted:
-	User: 42170032
-	Group: 2809456
-	Rank: 19475061
+     User: 42170032
+     Group: 2809456
+     Rank: 19475061
 ```

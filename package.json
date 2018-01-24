@@ -1,10 +1,14 @@
 {
   "name": "blox.js",
   "version": "0.1.17",
-  "description": "A library built to connect an application to the Roblox API.",
+  "description": "Blox.js is a Roblox API wrapper.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/roberthumphrey/blox.js"
   },
   "author": "Robert Humphrey <thelordpraemark@gmail.com>",
   "license": "MIT",
